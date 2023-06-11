@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146072502722",
+    "project_id": "test-digitos-wisc-e93fb",
+    "storage_bucket": "test-digitos-wisc-e93fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146072502722:android:6b60c50d23161b64b1965b",
+        "android_client_info": {
+          "package_name": "com.ebdp.test_digitos_wisc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAcVbNxjcZBsk-cNVQ_LKUehDpmUEE6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
